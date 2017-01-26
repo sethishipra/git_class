@@ -5,3 +5,4 @@ This repository was created as an exercise during the workshop held at IPGP.  Th
 ![Bravo](http://ep.imgci.com/PICTURES/CMS/49600/49691.jpg)
 
 The repository is later pulled to the master branch
+This is a remote edit.
