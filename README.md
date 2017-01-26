@@ -6,4 +6,4 @@ This repository was created as an exercise during the workshop held at IPGP.  Th
 
 The repository is later pulled to the master branch.
 
-This is a remote edit.
+This is a remote edit to READme.md
